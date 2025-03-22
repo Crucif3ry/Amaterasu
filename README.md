@@ -1,2 +1,2 @@
 # Amatersasu
-Amaterasu is a flask cookies cracker
+⛩️ Amaterasu for crack Flask cookies 🍪
